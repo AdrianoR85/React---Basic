@@ -1,0 +1,22 @@
+.card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2.4rem;
+
+    max-width: 60rem;
+    min-width: 30rem;
+    width: 50%;
+    height: 100%;
+    margin-bottom: 2rem;
+
+    color: #fff;
+    background-color: #735bf2;
+    border-radius: .5rem;
+    border: none;
+
+}
+
+.card strong {
+    font-size: 1.8rem;
+}
