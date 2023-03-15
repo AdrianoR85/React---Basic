@@ -1,2 +1,2 @@
-# React---Basic
+# React
 My first steps in React
